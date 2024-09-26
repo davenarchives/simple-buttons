@@ -1,0 +1,309 @@
+#youtube_subscribe {
+    background-color: rgb(217, 3, 3);
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+}
+#join_button {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 162, 255);
+    border-width: 1 px;
+    color: rgb(0, 162, 255);
+    font-size: 19px;
+    width: 115px;
+    height: 50px;
+    margin-left: 15px;
+}
+#tweet_button {
+    background-color: rgb(0, 179, 255);
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    height: 50px;
+    width: 120px;
+    border-radius: 25px;
+    margin-left: 15px;
+}
+#request_button {
+    background-color: black;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 130px;
+    margin-left: 15px;
+    font-size: 15px;
+}
+#amazon_button {
+    background-color: rgba(255, 216, 20);
+    border: none;
+    height: 50px;
+    width: 150px;
+    border-radius: 25px;
+    margin-left: 15px;
+    font-size: 18px;
+}
+#github_signup {
+    background-color: rgb(46, 154, 79);
+    border: none;
+    color: white;
+    height: 50px;
+    width: 120px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+#bootstrap_start {
+    background-color: rgb(121, 82, 197);
+    color: white;
+    border: none;
+    height: 50px;
+    width: 130px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+#download_button {
+    background-color: white;
+    border-color: rgb(108, 117, 125);
+    border-width: 1px;
+    color: rgb(108, 117, 125);
+    height: 50px;
+    width: 130px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 15px;
+
+}
+#linkedin_apply {
+    background-color: rgb(10, 102, 194);
+    border: none;
+    border-radius: 25px;
+    color: white;
+    height: 50px;
+    width: 260px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 15px;
+}
+#save_button {
+    background-color: white;
+    border-color: rgb(10, 102, 194);
+    border-width: 2px;
+    color: rgb(10, 102, 194);
+    font-weight: bold;
+    height: 50px;
+    width: 100px;
+    font-size: 17px;
+    border-radius: 25px;
+    margin-top: 15px;
+}
+#buynow_button {
+    background-color: rgb(255, 216, 21);
+    border: none;
+    height: 45px;
+    width: 140px;
+    font-size: 18px;
+    border-radius: 25px;
+    margin-left: 15px;
+}
+#fb_login {
+    background-color: rgb(27, 122, 190);
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+#google_signin {
+    background-color: rgb(25, 85, 159);
+    border: none;
+    color: white;
+    height: 50px;
+    width: 120px;
+    border-radius: 25px;
+    font-size: 17px;
+    margin-left: 15px;
+}
+#fb_create {
+    background-color: rgb(29, 195, 29);
+    border: none;
+    color: white;
+    height: 50px;
+    width: 210px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+#fb_create:hover {
+    background-color: rgb(43, 166, 43);
+}
+#signin_twitter {
+    background-color: rgb(255, 255, 255);
+    color: aqua;
+    border-color: aqua;
+    border: solid;
+    border-width: 1px;
+    height: 50px;
+    width: 260px;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+#signin_twitter:hover {
+    background-color: rgb(219, 246, 246);
+    transition: 0.5s;
+}
+#watch_button {
+    background-color: rgb(234, 232, 232);
+    color: rgb(0, 0, 0);
+    border: none;
+    height: 50px;
+    width: 85px;
+    border-radius: 25px;
+    font-size: 16px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+#watch_button:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    height: 50px;
+    width: 85px;
+    border-radius: 25px;
+    font-size: 16px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+#watch_button:active {
+    opacity: 0.4;
+}
+
+#explore_button {
+    background-color: rgb(234, 232, 232);
+    border: none;
+    height: 50px;
+    width: 85px;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+#explore_button:hover {
+    background-color: black;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 85px;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#explore_button:active {
+    opacity: 0.4;
+}
+#learnmore_button {
+    font-size: 17px;
+    background-color: white;
+    border-width: 1px;
+    height: 40px;
+    width: 190px;
+    border-color: rgb(192, 186, 186);
+    margin-top: 15px;
+    border-radius: 10px;
+}
+#learnmore_button:hover {
+    font-size: 17px;
+    background-color: rgb(227, 221, 221);
+    box-shadow: 2px 7px 5px rgba(0, 0, 0, 0.15); 
+}
+#downloadapk_button {
+    font-family: verdana;
+    background-color: rgb(90, 90, 243);
+    height: 50px;
+    width: 160px;
+    margin-left: 15px;
+    color: white;
+    border-color: rgb(214, 212, 212);
+    font-weight: bold;
+    border-radius: 25px;
+    font-size: 12px;
+    margin-top: 15px;
+}
+#downloadapk_button:hover {
+    font-family: verdana;
+    background-color: white;
+    height: 50px;
+    width: 160px;
+    margin-left: 15px;
+    color: rgb(90, 90, 243);
+    border-color: rgb(90, 90, 243);
+    font-weight: bold;
+    border-radius: 25px;
+    font-size: 12px;
+    transition: 0.25s;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.15);
+}
+#read_more {
+    background-color: rgb(255, 234, 0);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    height: 45px;
+    width: 150px;
+    border-radius: 30px;
+    border-width: 3px;
+    margin-left: 15px;
+    border-color: white;
+}
+#read_more:hover {
+    background-color: rgb(255, 217, 0);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    height: 45px;
+    width: 150px;
+    border-radius: 30px;
+    border-width: 3px;
+    margin-left: 15px;
+    border-color: white;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.15);
+    transition: 0.3s;
+}
+#save_button2 {
+    background-color: rgb(9, 231, 9);
+    color: white;
+    border: solid;
+    height: 45px;
+    width: 120px;
+    margin-left: 15px;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 7px;
+}
+#save_button2:hover {
+    background-color: rgb(252, 252, 252);
+    color: rgb(9, 231, 9);
+    border: solid;
+    border-color: rgb(9, 231, 9);
+    height: 45px;
+    width: 120px;
+    margin-left: 15px;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 7px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.15);
+    transition: 0.15s;
+}
